@@ -2932,7 +2932,7 @@
     (property "Datasheet" "~" (id 3) (at 39.37 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC partnumber" "C381144" (id 4) (at 35.56 63.5 0)
+    (property "LCSC partnumber" "C404969" (id 4) (at 35.56 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid fe330af2-6491-4a98-aa10-d91992cd0831))

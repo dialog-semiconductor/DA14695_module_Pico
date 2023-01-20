@@ -1,0 +1,11 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,LCSC partnumber,MANUFACTURER,SNAPEDA_PN,STANDARD
+1,Single-cell battery,Battery_Cell,BT1,Battery_Cell,Molex_PicoBlade_53261-0271_1x02-1MP_P1.25mm_Horizontal,1,~,C189700,,,
+2,Light emitting diode,LED,D1,usr_led,LED_0603_1608Metric,1,~,C72043,,,
+3,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Male,J1,Conn_01x04_Male,PinHeader_1x04_P2.54mm_Vertical,1,~,,,,
+4,USB Micro Type B connector,USB_B_Micro,J2,USB_B_Micro,USB_Micro-B_Amphenol_10118194_Horizontal,1,~,C404969,,,
+5,Resistor,R,R1,470,R_0603_1608Metric,1,~,C23179,,,
+6,Resistor,R,R2 R3,10k,R_0603_1608Metric,2,~,C25804,,,
+7,"Push button switch, generic, two pins",SW_Push,SW1,Bootsel,SW_SPST_B3U-1000P,1,~,C231329,,,
+8,"Push button switch, generic, two pins",SW_Push,SW2,Reset,SW_SPST_B3U-1000P,1,~,C231329,,,
+9,,DA14695_000HQ2,U2,DA14695_000HQ2,MODULE_DA14695_000HQ2,1,,,Renesas,DA14695_HQ2_Module,Manufacturer Recommendations
+10,"Very low capacitance ESD protection diode, 2 data-line, SOT-666",USBLC6-2P6,U1,USBLC6-2P6,SOT-666,1,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,C2827693,,,
